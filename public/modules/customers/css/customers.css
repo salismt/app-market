@@ -1,0 +1,22 @@
+
+.cust-profile {
+	font-size: 250px;
+}
+
+.cust-list {
+	font-size: 150px;
+}
+
+.checkbox-left {
+	width: 10%;
+	text-align: left;
+}
+
+.text-pink {
+	color: #E0297A;
+}
+
+.box-extra-space {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
